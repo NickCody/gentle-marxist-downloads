@@ -18,3 +18,5 @@ These early installers are not notarized or signed with a distribution certifica
 [Latest release and release notes](https://github.com/NickCody/gentle-marxist-downloads/releases/latest)
 
 This repository contains installer downloads and release notes. The application's source code is maintained separately.
+
+This is a read-only download catalog. Issues, pull requests, discussions, and contributions are not accepted. The repository is intentionally archived between releases to keep comments closed; the installer downloads remain available.
