@@ -40,4 +40,4 @@ Open **Settings → Models** and connect a supported local model or model provid
 
 This repository contains installer downloads and release notes. The application's source code is maintained separately.
 
-This is a read-only download catalog. Issues, pull requests, discussions, and contributions are not accepted. The repository is intentionally archived between releases to keep comments closed; the installer downloads remain available.
+This is a read-only download catalog. Issues, pull requests, discussions, and contributions are not accepted. Comments are closed; the installer downloads remain available.
